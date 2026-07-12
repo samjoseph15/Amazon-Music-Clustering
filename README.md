@@ -52,7 +52,7 @@ Amazon-Music-Clustering/
 │── Amazon_Music_Clustering.ipynb
 │── dataset.csv
 │── README.md
-│── requirements.txt
+│── single_genre_artists.txt
 ```
 
 ## 🚀 Future Enhancements
